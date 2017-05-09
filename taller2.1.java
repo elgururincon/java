@@ -1,10 +1,7 @@
-
-package Ejercicio1;
-
 public class DistanciaMinima {
 
     public void DistanciaMinima() {
-        int Array[] = {16, 3, 10, 9, 8};
+        int Array[] = {1, 14, 120, 95, 8};
 
         int d;
         int j = 0;
